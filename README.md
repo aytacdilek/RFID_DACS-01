@@ -1,11 +1,11 @@
 # DOOR ACCESS CONTROL SYSTEM
-This is a multi purpose door access control system development board. System has two working modes, online or offline. In online mode, by using Ethernet controller or RS485, system can communicate with main server and grant access to the users. In offline mode, just by using rfid tags, main system can grant access to the users. RFID IDs may be stored in eeprom or microsd, to control intruder traffic. Time info is also stored by using RTC IC.
+This is a multi purpose door access control system development board. System has two working modes, online and offline. In online mode, by using Ethernet controller or RS485, system can communicate with main server and grant access to the users. In offline mode, just by using rfid tags, main system can grant access to the users. RFID IDs may be stored in eeprom or microsd, to control intruder traffic. Time info is also stored by using RTC IC.
 
 System has temperature and humidity sensor to control climate changes over internet. User may want to control lights of the room by using light intensity sensors.
 
 System has 5V relay to control door magnetic. 
 
-After PCB manufacture and assembly, i will share test codes and drivers. For now, you can use it for reference. All hardware is desgined by ALtium Designer. You can use this files for educational purposes.
+After PCB manufacture and assembly, i will share test codes and drivers. For now, you can use it for reference. All hardware documents are desgined by ALtium Designer. You can use this files for educational purposes.
 
 Have fun!
 
