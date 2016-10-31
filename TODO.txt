@@ -1,0 +1,1 @@
+1. Eksik malzemeler varsa diye kontrol edilecek. 

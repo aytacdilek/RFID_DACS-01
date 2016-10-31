@@ -1,0 +1,35 @@
+System Requirement Document
+1. POWER
+   - Power input shall be protected against over current by ptc fuse.
+   - Power input shall be protected against transient voltage by TVS diode.
+   - Power input shall have LED indicater for power existance.
+   - Power input shall be regulated to 5V by switching regulator.
+   - Power output of switching regulator shall be regulated to 3.3V for MCU and
+     other peripherals.
+   - Width of the Power input trace shall be 20mils.
+2. MCU
+   -
+3. RFID
+   - 13.56 MHz RFID system shall be used.
+   - ISO14443A cards shall be read.
+   - Mifare cards shall be read.
+4. ETHERNET
+   - System shall be used in TCPIP Client/Server Mode.
+   - Wiznet W5100 shall be used as ethernet controller.
+5. WIFI
+6. LCD
+   - 1602 character LCD shall be used as visual indicator.
+7. EEPROM
+   - 256KB EEPROM shall be used for offline mode.
+8. RTC
+   -
+9. TEMP
+10. RELAY
+   - 5V Relay shall be used for door opening.
+11. BUZZER
+   - 12mm buzzer shall be used as vocal indicator for card presedence.
+12. RS485
+    - System shall communicate to the server with RS485 peripheral.
+13. TEST POINTS
+14. PCB
+15. ENCLOSURE
